@@ -1,12 +1,6 @@
 {
   "todos": [
     {
-      "id": "0e71",
-      "title": "title",
-      "description": "description",
-      "status": "done"
-    },
-    {
       "id": "6ccc",
       "title": "milk",
       "description": "get from shop",
