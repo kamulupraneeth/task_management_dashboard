@@ -4,13 +4,13 @@
       "id": "6ccc",
       "title": "milk",
       "description": "get from shop",
-      "status": "todo"
+      "status": "done"
     },
     {
       "id": "c74c",
       "title": "store",
       "description": "create store",
-      "status": "in-progress"
+      "status": "done"
     }
   ]
 }

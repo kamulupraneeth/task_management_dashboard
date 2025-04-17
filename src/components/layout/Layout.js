@@ -54,7 +54,11 @@ const Layout = ({ taskStatus, taskInfo, setTaskInfo }) => {
                 {...provided.droppableProps}
               >
                 <p className="flex-1">
-                  <span className={`block p-2 ${color}`}>{title}</span>
+                  <span
+                    className={`block p-2 text-center text-white font-bold ${color}`}
+                  >
+                    {title}
+                  </span>
                 </p>
                 {taskInfo
                   .filter((task) => task.status === key)
